@@ -1,0 +1,30 @@
+{
+  "name": "fantasy-basketball-backend",
+  "version": "1.0.0",
+  "description": "Fantasy basketball tracker backend with AWS Lambda",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "node src/db/migrate.js",
+    "db:push": "drizzle-kit push",
+    "db:studio": "drizzle-kit studio",
+    "test:db": "node src/test-connection.js"
+  },
+  "keywords": [
+    "fantasy",
+    "basketball",
+    "aws",
+    "lambda"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "drizzle-orm": "^0.45.1",
+    "postgres": "^3.4.5"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.8"
+  }
+}

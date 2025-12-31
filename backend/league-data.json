@@ -1,0 +1,163 @@
+{
+  "gameId": 3,
+  "id": 1465450080,
+  "members": [
+    {
+      "displayName": "ESPNFAN7914254771",
+      "id": "{0E8CED38-A941-4730-B2C7-0B83A94EA89E}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN7980753558",
+      "id": "{2DCFAD38-DF88-4340-9F88-40583150C9D7}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN3047506615",
+      "id": "{3397D11F-A5B8-476E-89EF-11DD5B162D83}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN2735158633",
+      "id": "{365F62C7-0D50-46A4-858F-34987AEE266E}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN0499593760",
+      "id": "{397DB7FE-73D7-424B-98B7-A35CD06163C5}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN9289633547",
+      "id": "{42C9152A-0908-4AFB-BD71-EB9041B6E9BE}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN3351173788",
+      "id": "{56EA4B96-AB19-451C-B65D-1A8B1CC105F4}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN3249021779",
+      "id": "{57B3761C-E1D1-47A9-8D99-BD9CE2C72765}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN3393424999",
+      "id": "{5CD11E43-F2A3-4853-81D7-E0D00230B3DC}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "espnfan5481809178",
+      "id": "{68093F4B-822D-465D-870E-4AE55AB4B347}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ESPNFAN6747347091",
+      "id": "{76ED880E-0351-40DA-90B0-F2027968689A}",
+      "isLeagueManager": false
+    },
+    {
+      "displayName": "ErecShun",
+      "id": "{F8C89C65-D63A-4DE0-A0A9-53FC2CBA81C3}",
+      "isLeagueManager": false
+    }
+  ],
+  "scoringPeriodId": 55,
+  "seasonId": 2026,
+  "segmentId": 0,
+  "settings": {
+    "name": "Lebron James Legacy Run"
+  },
+  "status": {
+    "currentMatchupPeriod": 8,
+    "isActive": true,
+    "latestScoringPeriod": 55
+  },
+  "teams": [
+    {
+      "abbrev": "LBJ",
+      "id": 1,
+      "owners": [
+        "{56EA4B96-AB19-451C-B65D-1A8B1CC105F4}"
+      ]
+    },
+    {
+      "abbrev": "claw",
+      "id": 2,
+      "owners": [
+        "{57B3761C-E1D1-47A9-8D99-BD9CE2C72765}"
+      ]
+    },
+    {
+      "abbrev": "BK",
+      "id": 3,
+      "owners": [
+        "{3397D11F-A5B8-476E-89EF-11DD5B162D83}"
+      ]
+    },
+    {
+      "abbrev": "BBT",
+      "id": 4,
+      "owners": [
+        "{397DB7FE-73D7-424B-98B7-A35CD06163C5}"
+      ]
+    },
+    {
+      "abbrev": "PPT",
+      "id": 5,
+      "owners": [
+        "{2DCFAD38-DF88-4340-9F88-40583150C9D7}"
+      ]
+    },
+    {
+      "abbrev": "KSs",
+      "id": 6,
+      "owners": [
+        "{42C9152A-0908-4AFB-BD71-EB9041B6E9BE}"
+      ]
+    },
+    {
+      "abbrev": "BBC",
+      "id": 7,
+      "owners": [
+        "{5CD11E43-F2A3-4853-81D7-E0D00230B3DC}"
+      ]
+    },
+    {
+      "abbrev": "kbl",
+      "id": 8,
+      "owners": [
+        "{0E8CED38-A941-4730-B2C7-0B83A94EA89E}"
+      ]
+    },
+    {
+      "abbrev": "EET",
+      "id": 9,
+      "owners": [
+        "{F8C89C65-D63A-4DE0-A0A9-53FC2CBA81C3}"
+      ]
+    },
+    {
+      "abbrev": "WWA",
+      "id": 10,
+      "owners": [
+        "{68093F4B-822D-465D-870E-4AE55AB4B347}"
+      ]
+    },
+    {
+      "abbrev": "AAT",
+      "id": 11,
+      "owners": [
+        "{365F62C7-0D50-46A4-858F-34987AEE266E}"
+      ]
+    },
+    {
+      "abbrev": "JST",
+      "id": 12,
+      "owners": [
+        "{76ED880E-0351-40DA-90B0-F2027968689A}"
+      ]
+    }
+  ]
+}
